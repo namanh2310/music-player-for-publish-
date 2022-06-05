@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/music-player-for-publish-/static/css/main.5a61a33c.css",
+    "main.js": "/music-player-for-publish-/static/js/main.12bb7b7b.js",
+    "index.html": "/music-player-for-publish-/index.html",
+    "main.5a61a33c.css.map": "/music-player-for-publish-/static/css/main.5a61a33c.css.map",
+    "main.12bb7b7b.js.map": "/music-player-for-publish-/static/js/main.12bb7b7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a61a33c.css",
+    "static/js/main.12bb7b7b.js"
+  ]
+}
